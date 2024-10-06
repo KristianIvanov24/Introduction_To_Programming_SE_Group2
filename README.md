@@ -1,1 +1,1 @@
-# Introduction_To_Programming_SE_Group2
+<h1> Увод в програмирането 2024/2025, СИ, курс 1, група 2 </h1>
