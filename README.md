@@ -10,4 +10,4 @@
 - [**Тема 7:**](https://github.com/KristianIvanov24/Introduction-to-Programming-SE/tree/main/sem-07) Многомерни масиви.
 - [**Тема 8:**](https://github.com/KristianIvanov24/Introduction-to-Programming-SE/tree/main/sem-08) Бройни системи. Побитови операции.
 - [**Тема 9:**](https://github.com/KristianIvanov24/Introduction-to-Programming-SE/tree/main/sem-09) Указатели. Символни низове.
-
+- [**Тема 10:**](https://github.com/KristianIvanov24/Introduction-to-Programming-SE/tree/main/sem-10) Символни низове - продължение.
